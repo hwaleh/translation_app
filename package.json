@@ -9,10 +9,16 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-native-community/netinfo": "^11.2.1",
     "expo": "~49.0.15",
+    "expo-av": "~13.4.1",
+    "expo-speech": "~11.3.0",
     "expo-status-bar": "~1.6.0",
+    "google-translate-api": "^2.3.0",
     "react": "18.2.0",
-    "react-native": "0.72.6"
+    "react-native": "0.72.6",
+    "react-native-modal": "^13.0.1",
+    "translate-google-api": "^1.0.4"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
